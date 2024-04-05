@@ -49,6 +49,7 @@ h1 {
         }
 
 	.Informa {
+		 padding: 10px 20px;
 		text-align-last: center;
 		 background-color:#2D2E33;
 		 color: #FFFFFF;
@@ -56,6 +57,7 @@ h1 {
 
 .header-content{
 	border-width: medium;
+	 padding: 10px 20px;
 		text-align-last: center;
 		 background-color:#2D2E33;
 		 color: #FFFFFF;
